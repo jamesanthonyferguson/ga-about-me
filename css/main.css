@@ -1,0 +1,109 @@
+#header {
+	background: url(../images/header.png) no-repeat center top;
+	margin-top: -50px;
+	padding-top:120px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 650px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#header p {
+	color: #fff;
+	font-size: 100px;
+	text-shadow: 2px 2px 2px #000;
+	margin-top: 200px;
+	font-family: 'Lobster Two', cursive;
+}
+
+h2 {
+	font-family: "Lobster Two", sans-serif;
+	font-size: 50px;
+}
+p {
+	font-size: 30px;
+	font-family: "Raleway", sans-serif;
+}
+
+#white {
+	background: #FFFFFF;
+	margin-top: 0px;
+	padding-top: 40px;
+	border-bottom: 1px solid #ddd;
+	text-align: center;
+}
+#about {
+	background: #F4B17B;
+	margin-top: 0px;
+	padding-top: 40px;
+	border-bottom: 1px solid #ddd;
+	text-align: center;
+	color: #FFFFFF;
+	
+}
+#about h2 {
+	font-size: 60px;
+	text-shadow: 1px 1px 1px #000;
+}
+#about p {
+	font-size: 30px;
+}
+
+#experience p {
+	font-size: 30px;
+}
+
+.red {
+	color: #e22;
+	font-style: italic;
+}
+li {
+	text-align: left;
+	font-size: 30px;
+	line-height: 60px;
+}
+#my-carousel {
+	width: 720px;
+	height: 480px;
+	margin: 0 auto;
+}
+span {
+	font-style: italic;
+}
+img {
+	margin-bottom: 10px;
+}
+.footer {
+	background: #ccc;
+}
+.footer p {
+	color: #333;
+	font-size: 14px;
+	text-align: center;
+}
+body {
+	font-family: 'Raleway', sans-serif;
+}
+.caption {
+	margin-bottom: 40px;
+}
+.caption p {
+	font-size: 18px;
+}
+#small h3 {
+	font-size: 18px;
+	color: #fff;
+}
+#hidden {
+	color: #F4B17B;
+}
